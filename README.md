@@ -16,11 +16,11 @@
 一块2080Ti ， 训练时间：30分钟。  
 
 ## 环境
-python 3.7  
-pytorch 1.1  
-tqdm  
-sklearn  
-tensorboardX  
+python 3.9  
+pytorch 1.12.1 
+transformers 4.25.1
+tqdm  4.64.1
+tensorboardX   2.5.1 
 
 
 ## 中文数据集
