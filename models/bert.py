@@ -2,6 +2,7 @@
 import torch
 import torch.nn as nn
 from transformers import BertModel, BertTokenizer
+# from transformers import AutoTokenizer, AutoModel
 
 
 class Config(object):

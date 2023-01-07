@@ -9,7 +9,7 @@ from utils import build_dataset, build_iterator, get_time_dif
 from loguru import logger
 
 parser = argparse.ArgumentParser(description='Chinese Text Classification')
-parser.add_argument('--model', type=str,default='bert_CNN', required=False, help='choose a model: bert, ERNIE')
+parser.add_argument('--model', type=str,default='ERNIE', required=False, help='choose a model: bert, ERNIE')
 args = parser.parse_args()
 
 

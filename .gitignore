@@ -6,3 +6,8 @@
 /bert-base-chinese/vocab.txt
 /Erlangshen-Longformer-330M/
 /ERNIE_pretrain/
+/THUCNews/saved_dict/
+/ernie-3.0-base-zh/config.json
+/ernie-3.0-base-zh/gitattributes.txt
+/ernie-3.0-base-zh/pytorch_model.bin
+/ernie-3.0-base-zh/vocab.txt
