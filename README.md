@@ -18,8 +18,8 @@
 ## 环境
 python 3.9  
 pytorch 1.12.1 
-transformers 4.25.1
-tqdm  4.64.1
+transformers 4.25.1 
+tqdm  4.64.1 
 tensorboardX   2.5.1 
 
 
